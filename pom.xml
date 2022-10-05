@@ -17,6 +17,7 @@
 
 	<modules>
 		<module>confsvr</module>
+		<module>eurekasvr</module>
 	</modules>
 
 	<build>
