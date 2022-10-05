@@ -1,0 +1,6 @@
+1，m1芯片不支持docker maven插件
+解决方式：https://blog.csdn.net/yrwan95/article/details/122193187
+然后只能在命令行运行mvn docker目标
+
+2，命令行运行mvn目标
+mvn clean package docker:build
